@@ -1,8 +1,8 @@
 # README
 
-This is a simple mutli-thread bot implementation, it was simply created only for study purpuses so feel free to use it however you like. 
+This is a simple mutli-thread bot implementation, it was simply created only for study purposes so feel free to use it however you like. 
 
-I tried to write it in a way that should be easy to add new functionalities by creating a new bot in the "bots" folder and passing it's class as an argument to a MultiThreadBot object. Example below:
+I tried to write it in a way that should be easy to add new functionalities by creating a new bot in the "bots" folder and passing its class as an argument to a MultiThreadBot object. Example below:
 
 ```python
 from multi_thread_bot import MultiThreadBot
